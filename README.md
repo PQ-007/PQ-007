@@ -1,4 +1,4 @@
-# Hi there 👋
+<img width="140" height="688" alt="image" src="https://github.com/user-attachments/assets/779ebda3-1514-4310-be78-c4052ad5a529" /># Hi there 👋
 <p align="center">
 <img src="huleg.svg">
 </p>
