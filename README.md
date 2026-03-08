@@ -2,7 +2,7 @@
 <tr>
 <td width="160">
 
-<img src="huleg.svg" width="140">
+<img src="whuleg.svg" width="140">
 
 </td>
 
