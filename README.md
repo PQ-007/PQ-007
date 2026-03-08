@@ -1,5 +1,7 @@
 # Hi there 👋
-
+<p align="center">
+<img src="huleg.svg">
+</p>
 ## 👨‍💻 About Me
 I'm **Bilguuntushig Amarsaihan**, a Computer Science student at **NEW MONGOL COLLEGE OF TECHOLOGY**.
 
