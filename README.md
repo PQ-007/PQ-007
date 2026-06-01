@@ -8,15 +8,14 @@
 
 <td>
 
-## 👨‍💻 About Me
-I'm **Bilguuntushig Amarsaihan**, a Computer Science student at **NEW MONGOL COLLEGE OF TECHNOLOGY**.
-
-I enjoy building systems that combine **software, algorithms, and science**.  
-My interests include **algorithm design, AI, distributed systems, and biological computing**.
+## Bio
+- Ex nihilo nihil fit, Audentes fortuna iuvat.
+- I believe small improvements made consistently lead to meaningful results.
+- There is no magic, just abstraction layers built on top of one another.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-streak-stats-silk-eight.vercel.app/?user=PQ-007&theme=github-dark&border=00000000&background=00000000"/>
@@ -24,19 +23,12 @@ My interests include **algorithm design, AI, distributed systems, and biological
 
 ---
 
-## 📚 Interests
-- Algorithm Design  
-- Machine Learning  
-- Bio-inspired Computing  
-- Educational Software  
-- Open Source Development  
+## Goals
 
----
-
-## 🌏 Goals
-- Contribute to **biological computing research**
-- Build impactful **educational technology**
-- Continue studying advanced **computer science and bioinformatics**
+- Contribute to the future of biological computing
+- Build projects that help people work more effectively
+- Share knowledge through writing and teaching
+- Keep learning, creating, and enjoying the journey
 
 </td>
 </tr>
