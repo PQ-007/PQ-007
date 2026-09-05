@@ -10,8 +10,8 @@
 
 ## Bio
 - Ex nihilo nihil fit, Audentes fortuna iuvat.
-- I believe small improvements made consistently lead to meaningful results.
 - There is no magic, just abstraction layers built on top of one another.
+- Just sit up and do it.
 
 ---
 
@@ -22,13 +22,6 @@
 </p>
 
 ---
-
-## Goals
-
-- Contribute to the future of biological computing
-- Build projects that help people work more effectively
-- Share knowledge through writing and teaching
-- Keep learning, creating, and enjoying the journey
 
 </td>
 </tr>
